@@ -126,7 +126,7 @@ The queries solve real-life business problems — such as salary analysis, depar
 <h2>🛠️ Tools & Techniques</h2>
 
 <ul>
-  <li><b>Oracle SQL Developer</b></li>
+  <li><b>Oracle PL SQL Developer</b></li>
   <li><b>Window Functions:</b> <code>ROW_NUMBER</code>, <code>DENSE_RANK</code>, <code>LAG</code>, <code>LEAD</code>, <code>MIN OVER</code></li>
   <li><b>Join types:</b> <code>INNER JOIN</code>, <code>LEFT JOIN</code>, <code>SELF JOIN</code>, <code>CROSS JOIN</code></li>
   <li><b>Subqueries and CTEs</b> (<code>WITH</code>)</li>
